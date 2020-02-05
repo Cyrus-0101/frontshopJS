@@ -1,0 +1,22 @@
+.footer {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0px;
+}
+.footer .logo-container {
+  height: 100%;
+  width: 70px;
+  padding: 25px;
+}
+.footer .options {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.footer .options .option {
+  padding: 10px 15px;
+}

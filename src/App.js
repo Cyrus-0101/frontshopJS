@@ -8,6 +8,8 @@ import ShopPage from './pages/shop/shop.component';
 import Header from './components/header/header.component';
 import SignInAndSignUpPage from './pages/sign-in-and-sign-up/sign-in-and-sign-up.component';
 
+import Footer from './components/footer/footer.component';
+
 function App() {
   return (
     <div>
@@ -17,6 +19,7 @@ function App() {
         <Route path='/shop' component={ShopPage} />
         <Route path='/signin' component={SignInAndSignUpPage} />
       </Switch>
+      <Footer />
     </div>
   );
 }
