@@ -23,10 +23,10 @@ const Footer = () => {
             <h5 className="title">Get In Touch</h5>
             <ul>
               <li className="list-unstyled">
-                <a href="#!">Facebook</a>
+                <a target='blank' href='www.github.com/Toxic254'>Github</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Twitter</a>
+                <a target='blank' href='www.twitter.com/CyrusN16'>Twitter</a>
               </li>
             </ul>
           </MDBCol>
@@ -35,7 +35,7 @@ const Footer = () => {
       </MDBContainer>
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: <a href="https://www.0101solutions.wordpress.com"> 0101 Solutions </a>
+          &copy; {new Date().getFullYear()} Copyright: <a target='blank' href="https://www.0101solutions.wordpress.com"> 0101 Solutions </a>
         </MDBContainer>
       </div>
     </MDBFooter>
