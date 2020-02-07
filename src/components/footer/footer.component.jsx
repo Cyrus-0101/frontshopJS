@@ -13,7 +13,7 @@ const Footer = () => {
             <Link className='logo-container' to="/">
                 <Logo className='logo'/>
             </Link>
-            <h4 className="title">Online Store</h4>
+            <h1 className="title">Online Store</h1>
             <p>
               Our mission is to ensure that we provide you with 
               the latest fashion trends in the global market.

@@ -1,0 +1,11 @@
+.sign-up {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+}
+.sign-up .title {
+  margin: 10px 0;
+}
+.sign-up .btn {
+  align-self: auto;
+}
