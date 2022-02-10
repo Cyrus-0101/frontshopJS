@@ -9,7 +9,7 @@
     "firebase": "^7.8.0",
     "mdbootstrap": "^4.12.0",
     "mdbreact": "^4.25.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-hooks": "^1.0.1",
